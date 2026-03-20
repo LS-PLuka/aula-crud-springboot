@@ -1,15 +1,20 @@
-# Primeira Aula com Spring Boot
+# Primeiros passos com Spring Boot
 
-Desenvolvendo primeiros CRUDs com Java, Spring Boot, JPA/Hibernate com PostgreSQL.
+Projeto de estudos para aprender a construir APIs REST com Java e Spring Boot,
+seguindo um curso gratuito no YouTube.
 
-Este repositório contém meus primeiros estudos com Java + Spring Boot seguindo um curso completo e gratuito no YouTube.
+## O que foi praticado
 
-## Objetivo
-Aprender a criar APIs utilizando Spring Boot com persistência de dados, autenticação e boas práticas no desenvolvimento backend.
+- CRUD com Spring Boot e Spring Data JPA
+- Persistência de dados com PostgreSQL
+- Autenticação com Spring Security e JWT
 
 ## Tecnologias
-- Java
-- Spring Boot
-- Spring Data JPA (Hibernate)
-- PostgreSQL
-- Spring Security + JWT
+
+| Tecnologia | Uso |
+|---|---|
+| Java | Linguagem principal |
+| Spring Boot | Framework web |
+| Spring Data JPA / Hibernate | ORM e persistência |
+| PostgreSQL | Banco de dados |
+| Spring Security + JWT | Autenticação |
